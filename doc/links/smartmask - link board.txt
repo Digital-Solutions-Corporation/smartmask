@@ -1,0 +1,7 @@
+https://dev.azure.com/RM84735/smartmask/
+
+
+Ao acessar o link, navegue para 
+Boards > Backlogs
+e lá estão os itens de backlog do produto, em hierarquia de 
+Épicos > Features > Itens de Backlog
